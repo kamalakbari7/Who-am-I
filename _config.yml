@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Kamal Akbari
 title: PhD Candidate
-email: Akbarik@unimelb.edu.au
+email: akbarik@unimelb.edu.au
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -22,7 +22,7 @@ darkmode: false
 twitter_username: kamalakbari7
 github_username:  Kamalakbari7
 linkedin_username: jekyll
-youtube_username : kaka
+youtube_username: kaka
 
 # Additional icon links
 additional_links:
