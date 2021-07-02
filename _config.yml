@@ -29,7 +29,7 @@ linkedin_username: kamalakbari
 about_profile_image: images/Kamal7.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  I am a Geomatics PhD Candidate (Spatial Information Science) in the  Infrastructure Department at Melbourne University, and working on Causal Inference in the spatial and geographical processes. I studied Geographic Information Systems and Remote Sensing for my master degree. I have had experiences in different environmental, health, human behaviour, and data management projects. In addition, I have more than four years of teaching experience. Also, I was the vice president of the GIES committee in the Infrastructure Department between 2020-21, and we held a fantastic conference. 
+  I am a Geomatics PhD Candidate (Spatial Information Science) in the Infrastructure Department at Melbourne University, and working on Causal Inference in the spatial and geographical processes. I studied Geographic Information Systems and Remote Sensing for my master degree. I have had experiences in different environmental, health, human behaviour, and data management projects. In addition, I have more than four years of teaching experience. Also, I was the vice president of the GIES committee in the Infrastructure Department between 2020-21, and we held a fantastic conference. 
   I have knowledge about Spatial Statistics, Spatial Analysis, Causal Inference, Agent-based Modelling, Python and R programming. I am familiar with different tools and software related to GIS and RS, such as ArcGIS, QGIS, FME, ENVI, and ERDAS. Moreover, I founded and managed a knowledge-based company to provide location-based services, generate economic growth and employment for society. 
   My interested fields cover various topics, including GIS, Causal Inference, Mobility Analysis, GeoMarketing, Pedestrian Modelling, Spatial Data Mining, and Spatial Database Designing.
   I am confident that my combination of skills and experiences will help me to have a good collaboration with the academic and industrial world.
@@ -39,7 +39,7 @@ content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content:hhhhhh, jjjjjj, dddddd
       - layout: left
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
