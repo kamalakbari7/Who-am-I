@@ -44,7 +44,7 @@ additional_links:
 about_profile_image: images/Kamal7.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-I am a Geomatics PhD student at University of Melbourne. Currently, I am working on Causal Inference in the Spatial Processes. 
+  I am a Geomatics PhD student at University of Melbourne. Currently, I am working on Causal Inference in the Spatial Processes. 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
