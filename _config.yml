@@ -39,7 +39,7 @@ content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:hhhhhh, jjjjjj, dddddd
+    content:[hhhhhh, jjjjjj, dddddd]
       - layout: left
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
